@@ -7,27 +7,16 @@ To develop a python control code to move the mobilerobot along the predefined pa
 1. RoboMaster EP core
 2. Python 3.7
 
-## Procedure
+## Procedure:
 
-Step1:
+Step1: Initiate the MobileRobot.
 
-<br/>
+Step2: Connect your PC with the MobileRobot.
 
-Step2:
+Step3: Program the movements of the robot using python code
 
-<br/>
+Step4: Execute the python program.
 
-Step3:
-
-<br/>
-
-Step4:
-
-<br/>
-
-Step5:
-
-<br/>
 
 ## Program
 ```python
